@@ -1,5 +1,3 @@
-This repo is specific to Jury soft assignment chllenge given via GQT Yelahanka.
-
 This is a basic application created by HTML, CSS for Product listing, Details, reviews, Cart and other navigation items
 
 To run this, Please clone the repo to your local machine or any other VM and run **index.html** by opening it on any of your comfortable browser
